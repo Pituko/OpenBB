@@ -1,0 +1,21 @@
+OpenBB is open software and it can be modified under the GNU General Public License 3.
+Share, edit, be free! Use OpenBB
+
+OpenBB has no versions until April 4th, 2012; but it expects that soon it will have once. OpenBB is a simple forum plataform based in PHP and MySQL.
+
+.OBAN format is a format based on GZIP compression, following a series of criteria that are interpreted by OpenBB to install add-ons to the forum.
+
+NOTE: Actually, OpenBB do not have Portuguese, Italian, French or any other language versions.
+
+-----------------------------------------
+
+OpenBB es software libre y puede ser modificado siguiendo los términos especificados en la GNU General Public License 3.
+¡Comparte, edita, se libre! Usa OpenBB
+
+OpenBB no tiene versiones desde el 4 de Abril de 2012 pero se espera que tenga una pronto. OpenBB es una plataforma de foros sencilla basada en PHP y MySQL.
+
+El formato .OBAN es un formato basado en la compresión GZIP, siguiendo una orden de criterios que son interpretados por OpenBB para instalar add-ons al foro.
+
+NOTA: Actualmente, OpenBB no tiene versión ni en portugués, ni en francés, ni en italiano, ni en otros idiomas.
+
+-----------------------------------------
